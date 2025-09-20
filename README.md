@@ -1,10 +1,13 @@
 # instinctive.studio_Technical_assesment
+
 install below softwares 
+
 a) we need to install langchain
 
 b) we need to install supporting softwares
 
 practical step : pip install pypdf---load pdf
+                
                  pip install langchain-community----split pdf
 
 all-mpnet-base-v2 cotains rules and regulations to build the model(llm-large language model)
@@ -13,6 +16,7 @@ sentence-transformers software will use that instructions to build the model
 
 
 steps:-
+
 step 1: load pdf into documents using pypdf.
               documents=loader.load()
 
