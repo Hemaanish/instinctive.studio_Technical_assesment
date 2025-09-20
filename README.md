@@ -6,7 +6,9 @@ a) we need to install langchain
 
 b) we need to install supporting softwares
 
-practical step : pip install pypdf---load pdf
+practical step : 
+               
+                 pip install pypdf---load pdf
                 
                  pip install langchain-community----split pdf
 
